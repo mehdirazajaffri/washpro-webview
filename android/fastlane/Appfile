@@ -1,0 +1,2 @@
+json_key_file("/Users/Mehdi/Documents/washpro_inc/android/pc-api-5765176659454925989-548-7c2a3e83aec4.json") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("com.washpro.laundry") # e.g. com.krausefx.app
